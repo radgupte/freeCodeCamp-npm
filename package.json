@@ -4,7 +4,8 @@
 	"description": "A project that makes your life easier",
 	"keywords": ["help", "assist", "aid", "freecodecamp"],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
